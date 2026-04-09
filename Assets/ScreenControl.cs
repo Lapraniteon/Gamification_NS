@@ -8,7 +8,7 @@ public class ScreenControl : MonoBehaviour
     {
         foreach (RectTransform child in GetComponent<RectTransform>())
         {
-            Debug.Log(child.gameObject.name);
+            // Debug.Log(child.gameObject.name);
             child.gameObject.SetActive(screenName == child.gameObject.name);
         }
     }
