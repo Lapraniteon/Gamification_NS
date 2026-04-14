@@ -14,6 +14,11 @@ public class MapPopupWidget : MonoBehaviour
         rt.DOScale(Vector3.one, 0.2f).SetEase(Ease.OutBack);
     }
 
+    private void OnDisable()
+    {
+        gameObject.SetActive(false);
+    }
+
     public void Disable()
     {
         StartCoroutine(DisableCoroutine());
