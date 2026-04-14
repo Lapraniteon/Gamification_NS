@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f25f59f96e084e84e9fa41c939b6a87e
+guid: ca499f70d96278a4dab28d21de189fde
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7690766208194042199
-    second: ov-card-page_0
+      213: -1599914448114000903
+    second: ov-card-page-1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -126,23 +126,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ov-card-page_0
+      name: ov-card-page-1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 1264
-        height: 1427
+        height: 1353
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a6240e81e8e44590800000000000000
-      internalID: -7690766208194042199
+      spriteID: 9fb56214946fbc9e0800000000000000
+      internalID: -1599914448114000903
       vertices: []
       indices: 
       edges: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 60b33c5e7b58c434a8fe62d43a3840a7
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ov-card-page_0: -7690766208194042199
+      ov-card-page-1_0: -1599914448114000903
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
