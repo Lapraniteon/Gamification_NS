@@ -17,7 +17,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &5235078997574876029
 RectTransform:
   m_ObjectHideFlags: 0
@@ -34,7 +34,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -60}
+  m_AnchoredPosition: {x: 0, y: -80}
   m_SizeDelta: {x: 0, y: 70}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &4548382823747099673
@@ -149,6 +149,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: StationPopup
       objectReference: {fileID: 0}
+    - target: {fileID: 1055984749615876327, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1055984749615876327, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
+      propertyPath: m_Color.a
+      value: 0.34117648
+      objectReference: {fileID: 0}
+    - target: {fileID: 1055984749615876327, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1055984749615876327, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1055984749615876327, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1268615440803061297, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
       propertyPath: m_text
       value: Eindhoven Centraal
@@ -236,6 +256,14 @@ PrefabInstance:
     - target: {fileID: 2311168110834771389, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
       propertyPath: m_text
       value: Visited on 11/23/2025
+      objectReference: {fileID: 0}
+    - target: {fileID: 3664887268550603907, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
+      propertyPath: m_Name
+      value: VisitedText
+      objectReference: {fileID: 0}
+    - target: {fileID: 3664887268550603907, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5915742685061243737, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
       propertyPath: m_text
