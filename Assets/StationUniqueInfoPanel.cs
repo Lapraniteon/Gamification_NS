@@ -1,0 +1,30 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using DG.Tweening;
+using UnityEngine;
+
+public class StationUniqueInfoPanel : MonoBehaviour
+{
+    private RectTransform rt;
+    
+    private void Start()
+    {
+        rt = gameObject.GetComponent<RectTransform>();
+        
+        rt.localScale = new Vector3(0.01f, 0.01f, 0.01f);
+        rt.DOScale(Vector3.one, 0.2f).SetEase(Ease.OutBack);
+    }
+
+    public void Disable()
+    {
+        StartCoroutine(DisableCoroutine());
+    }
+
+    private IEnumerator DisableCoroutine()
+    {
+        Tween tween = rt.DOScale(Vector3.zero, 0.2f).SetEase(Ease.OutCubic);
+        yield return tween.WaitForCompletion();
+        Destroy(gameObject);
+    }
+}
