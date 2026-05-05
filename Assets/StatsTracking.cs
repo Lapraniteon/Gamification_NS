@@ -20,6 +20,26 @@ public class StatsTracking : MonoBehaviour
     [SerializeField] private float displayedCurrentXP;
     [SerializeField] private float xpToNextLevel;
 
+    [Header("Carbon Calculation")] 
+    [SerializeField] [NaughtyAttributes.ReadOnly] private Vector2 previousStationPosition;
+
+    private static StatsTracking _instance; // Game Manager singleton pattern
+    public static StatsTracking Instance
+    {
+        get
+        {
+            if (_instance is null) // Error checking in case the Game Manager is not assigned
+                Debug.LogError("GameManager is null!");
+
+            return _instance;
+        }
+    } // Game Manager instance property
+
+    private void Awake()
+    {
+        _instance = this;
+    }
+    
     private void Update()
     {
         xpBar.maxValue = xpToNextLevel;

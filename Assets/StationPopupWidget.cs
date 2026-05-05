@@ -15,6 +15,6 @@ public class StationPopupWidget : MapPopupWidget
 
     public void AddCarbonKilos()
     {
-        GameObject.FindGameObjectWithTag("GameManager").GetComponent<StatsTracking>()?.AddCarbonSaved(carbonKilos);
+        StatsTracking.Instance.AddCarbonSaved(carbonKilos);
     }
 }
