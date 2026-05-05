@@ -21,7 +21,7 @@ public class StatsTracking : MonoBehaviour
     [SerializeField] private float xpToNextLevel;
 
     [Header("Carbon Calculation")] 
-    [SerializeField] [NaughtyAttributes.ReadOnly] private Vector2 previousStationPosition;
+    [SerializeField] private Vector2 previousStationPosition;
 
     private static StatsTracking _instance; // Game Manager singleton pattern
     public static StatsTracking Instance
@@ -51,25 +51,30 @@ public class StatsTracking : MonoBehaviour
 
         carbonProgressToNextLevelText.text = $"{displayedCurrentXP:n1}/{(int)xpToNextLevel} kg CO<sub>2</sub> <size=50%>to next lv.";
 
-        totalCarbonAndTreesText.text = $"{(int)totalCarbonSaved}kg CO<sub>2</sub> saved!\nThat's {(int)(totalCarbonSaved / 25f)} trees!";
+        totalCarbonAndTreesText.text = $"{(int)totalCarbonSaved} kg CO<sub>2</sub> saved!\nThat's {(int)(totalCarbonSaved / 25f)} tree(s)!";
         
         currentLevelLabelText.text = currentLevel.ToString();
         nextLevelLabelText.text = (currentLevel + 1).ToString();
     }
 
-    public void AddCarbonSaved(float value)
+    public void AddCarbonSaved(Vector2 newStationPosition)
     {
+        float value = Vector2.Distance(newStationPosition, previousStationPosition);
+        previousStationPosition = newStationPosition;
+        
+        value *= 0.0539457459926017f; // Fraction based on difference between pixel positions and actual carbon saves.
+        
         totalCarbonSaved += value;
         displayedCurrentXP += value;
 
-        while (displayedCurrentXP >= 100f)
+        while (displayedCurrentXP >= xpToNextLevel)
         {
             LevelUp();
-            displayedCurrentXP -= 100f;
+            displayedCurrentXP -= xpToNextLevel;
         }
     }
     
-    [NaughtyAttributes.Button]
+    /*[NaughtyAttributes.Button]
     private void Add1XP()
     {
         AddCarbonSaved(1f);
@@ -79,7 +84,7 @@ public class StatsTracking : MonoBehaviour
     private void Add10XP()
     {
         AddCarbonSaved(10f);
-    }
+    }*/
 
     private void LevelUp()
     {

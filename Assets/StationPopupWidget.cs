@@ -1,8 +1,10 @@
+using NaughtyAttributes;
 using UnityEngine;
 
 public class StationPopupWidget : MapPopupWidget
 {
-    
+
+    [SerializeField] public RectTransform carbonCalculationRect;
     [SerializeField] private StationUniqueInfoPanel stationInfoPanelPrefab;
 
     [Header("Values")] 
@@ -15,6 +17,6 @@ public class StationPopupWidget : MapPopupWidget
 
     public void AddCarbonKilos()
     {
-        StatsTracking.Instance.AddCarbonSaved(carbonKilos);
+        StatsTracking.Instance.AddCarbonSaved(carbonCalculationRect.transform.position);
     }
 }
