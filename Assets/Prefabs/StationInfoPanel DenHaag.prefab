@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6719308685145614853
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 271170481423350789, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: Den Haag Centraal
+      objectReference: {fileID: 0}
+    - target: {fileID: 627387367630124754, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_Name
+      value: StationInfoPanel DenHaag
+      objectReference: {fileID: 0}
+    - target: {fileID: 627387367630124754, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4300709508118169305, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 92.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6380436179282662226, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: "<font=\"bold\">Den Haag Centraal </font>is the largest railway station
+        in the city of The Hague in South Holland, Netherlands, and with twelve tracks,
+        the largest terminal station in the Netherlands. The railway station opened
+        in 1973, adjacent to its predecessor: <font=\"bold\">Den Haag Staatsspoor</font>,
+        which was subsequently demolished. It is the western terminus of the Gouda\u2013Den
+        Haag railway. \nBy the 2010s, the number of travellers per day had grown
+        to 190,000, and <font=\"bold\">Den Haag Centraal </font>had outgrown its
+        capacity. In order to increase the station's capacity, a renovation of its
+        main hall was started in 2011."
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -128
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -1280
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 383.99997
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8909666129578774016, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5659968678877761642, guid: 1c814c32f1ab28346b2947f1bc8e10d3, type: 3}
+    m_RemovedComponents:
+    - {fileID: 213306272834749090, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
