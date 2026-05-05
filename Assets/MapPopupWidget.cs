@@ -10,6 +10,15 @@ public class MapPopupWidget : MonoBehaviour
     
     private void OnEnable()
     {
+        GameObject[] widgets = GameObject.FindGameObjectsWithTag("PopUp");
+        foreach (GameObject widget in widgets)
+        {
+            if (widget == gameObject)
+                continue;
+            
+            widget.GetComponent<MapPopupWidget>().Disable();
+        }
+        
         rt.localScale = new Vector3(0.01f, 0.01f, 0.01f);
         rt.DOScale(Vector3.one, 0.2f).SetEase(Ease.OutBack);
     }

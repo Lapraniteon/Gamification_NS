@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6719308685145614853
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 271170481423350789, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: Enschede
+      objectReference: {fileID: 0}
+    - target: {fileID: 627387367630124754, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_Name
+      value: StationInfoPanel Enschede
+      objectReference: {fileID: 0}
+    - target: {fileID: 627387367630124754, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6380436179282662226, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: "<font=\"bold\">Enschede</font> is the main railway station in Enschede,
+        Netherlands. \nThe station opened on 1 July 1866 and is on the Zutphen\u2013Glanerbeek
+        railway. Between the late 1970s and 2001, the passenger service to Germany
+        stopped. The connection to M\xFCnster was reopened in 2001. There is no connection
+        allowing the German trains to run any further into Overijssel; however there
+        was before the line closed. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: -128
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: -1280
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 383.99997
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8909666129578774016, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d55b7dd45fec0c544b1bdf7aa15ee676, type: 3}
+    - target: {fileID: 8909666129578774016, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_PreserveAspect
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 213306272834749090, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}

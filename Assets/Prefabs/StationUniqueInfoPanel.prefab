@@ -253,7 +253,7 @@ GameObject:
   - component: {fileID: 3006366821285571498}
   - component: {fileID: 6380436179282662226}
   m_Layer: 5
-  m_Name: ProgressText
+  m_Name: Description
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -852,7 +852,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Visited on 11/23/2025
+  m_text: Visited on 24/5/2026
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 91840e7adeeb21546977d292ee1aebe5, type: 2}
   m_sharedMaterial: {fileID: 8588800577631518367, guid: 91840e7adeeb21546977d292ee1aebe5, type: 2}

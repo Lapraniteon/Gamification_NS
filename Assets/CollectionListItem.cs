@@ -20,6 +20,13 @@ public class CollectionListItem : MonoBehaviour
         OnBarValueChanged(progressBar.value);
     }
 
+    [NaughtyAttributes.Button]
+    public void AddOne()
+    {
+        progressBar.value++;
+        OnBarValueChanged(progressBar.value);
+    }
+
     private void OnBarValueChanged(float value)
     {
         int percentage = (int)(value / progressBar.maxValue * 100);

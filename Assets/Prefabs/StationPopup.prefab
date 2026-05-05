@@ -443,6 +443,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 3116192669475344126}
+        m_TargetAssemblyTypeName: StationPopupWidget, Assembly-CSharp
+        m_MethodName: AddCarbonKilos
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 7262231140564040348}
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
@@ -573,7 +585,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2311168110834771389, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
       propertyPath: m_text
-      value: Visited on 11/23/2025
+      value: Visited on 24/5/2026
       objectReference: {fileID: 0}
     - target: {fileID: 3664887268550603907, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
       propertyPath: m_Name
@@ -679,6 +691,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   rt: {fileID: 4213980639012406827}
   stationInfoPanelPrefab: {fileID: 0}
+  carbonKilos: 0
 --- !u!224 &4151402537631026256 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 1913455113327471224, guid: 1d7d4a36b006c834dabef6b4a157ee5e, type: 3}
