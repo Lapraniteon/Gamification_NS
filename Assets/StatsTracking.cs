@@ -11,8 +11,7 @@ public class StatsTracking : MonoBehaviour
 
     [Header("XP Bar")] 
     [SerializeField] private Slider xpBar;
-    [SerializeField] private TMP_Text carbonProgressToNextLevelText;
-    [SerializeField] private TMP_Text totalCarbonAndTreesText;
+    [SerializeField] private TMP_Text currentXPText;
     [Space] 
     [SerializeField] private TMP_Text currentLevelLabelText;
     [SerializeField] private TMP_Text nextLevelLabelText;
@@ -49,12 +48,13 @@ public class StatsTracking : MonoBehaviour
             DOTween.To(() => xpBar.value, x => xpBar.value = x, displayedCurrentXP, 0.1f);
         }
 
-        carbonProgressToNextLevelText.text = $"{displayedCurrentXP:n1}/{(int)xpToNextLevel} kg CO<sub>2</sub> <size=50%>to next lv.";
+        //carbonProgressToNextLevelText.text = $"{displayedCurrentXP:n1}/{(int)xpToNextLevel} kg CO<sub>2</sub> <size=50%>to next lv.";
+        currentXPText.text = $"{displayedCurrentXP:n1} kg CO<sub>2</sub>";
 
-        totalCarbonAndTreesText.text = $"{(int)totalCarbonSaved} kg CO<sub>2</sub> saved!\nThat's {(int)(totalCarbonSaved / 25f)} tree(s)!";
+        //totalCarbonAndTreesText.text = $"{(int)totalCarbonSaved} kg CO<sub>2</sub> saved!\nThat's {(int)(totalCarbonSaved / 25f)} tree(s)!";
         
-        currentLevelLabelText.text = currentLevel.ToString();
-        nextLevelLabelText.text = (currentLevel + 1).ToString();
+        currentLevelLabelText.text = (currentLevel * xpToNextLevel) + " kg";
+        nextLevelLabelText.text = ((currentLevel + 1) * xpToNextLevel) + " kg";
     }
 
     public void AddCarbonSaved(Vector2 newStationPosition)
