@@ -15,6 +15,8 @@ public class StatsTracking : MonoBehaviour
     [Space] 
     [SerializeField] private TMP_Text currentLevelLabelText;
     [SerializeField] private TMP_Text nextLevelLabelText;
+    [Space] 
+    [SerializeField] private TMP_Text profileOverviewText;
     [Space]
     [SerializeField] private float displayedCurrentXP;
     [SerializeField] private float xpToNextLevel;
@@ -49,12 +51,22 @@ public class StatsTracking : MonoBehaviour
         }
 
         //carbonProgressToNextLevelText.text = $"{displayedCurrentXP:n1}/{(int)xpToNextLevel} kg CO<sub>2</sub> <size=50%>to next lv.";
-        currentXPText.text = $"{displayedCurrentXP:n1} kg CO<sub>2</sub>";
+        currentXPText.text = $"{totalCarbonSaved:n1} kg CO<sub>2</sub>";
 
         //totalCarbonAndTreesText.text = $"{(int)totalCarbonSaved} kg CO<sub>2</sub> saved!\nThat's {(int)(totalCarbonSaved / 25f)} tree(s)!";
         
         currentLevelLabelText.text = (currentLevel * xpToNextLevel) + " kg";
         nextLevelLabelText.text = ((currentLevel + 1) * xpToNextLevel) + " kg";
+        
+        profileOverviewText.text = $"<size=50%>lv. {currentLevel}</size>\n" +
+                                   $"<font=\"bold\">Environmentalist</font>\n" +
+                                   $"<size=50%>{(currentLevel + 1) * xpToNextLevel - totalCarbonSaved:n1} kg to next lv.\n" +
+                                   $"<size=90%>\n" +
+                                   $"{totalCarbonSaved:n1} kg CO<sub>2</sub> saved\n" +
+                                   $"=\n" +
+                                   $"<size=65%><font=\"regular\">{(int)(totalCarbonSaved / 25f)} tree(s) / year\n" +
+                                   $"{totalCarbonSaved / 12f:n1} hrs. of showering\n" +
+                                   $"{totalCarbonSaved * 5f:n1}k Google searches";
     }
 
     public void AddCarbonSaved(Vector2 newStationPosition)
