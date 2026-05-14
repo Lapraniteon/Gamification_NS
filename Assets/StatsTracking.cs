@@ -8,18 +8,20 @@ public class StatsTracking : MonoBehaviour
     [Header("Stats")]
     public float totalCarbonSaved;
     public int currentLevel;
-
-    [Header("XP Bar")] 
-    [SerializeField] private Slider xpBar;
-    [SerializeField] private TMP_Text currentXPText;
-    [Space] 
-    [SerializeField] private TMP_Text currentLevelLabelText;
-    [SerializeField] private TMP_Text nextLevelLabelText;
-    [Space] 
-    [SerializeField] private TMP_Text profileOverviewText;
-    [Space]
+    
     [SerializeField] private float displayedCurrentXP;
     [SerializeField] private float xpToNextLevel;
+    private Tween[] tweens = new Tween[2];
+
+    [Header("XP Bar")] 
+    [SerializeField] private Slider[] xpBar;
+    [SerializeField] private TMP_Text[] currentXPText;
+    [Space] 
+    [SerializeField] private TMP_Text[] currentLevelLabelText;
+    [SerializeField] private TMP_Text[] nextLevelLabelText;
+    
+    [Header("Profile")] 
+    [SerializeField] private TMP_Text profileOverviewText;
 
     [Header("Carbon Calculation")] 
     [SerializeField] private Vector2 previousStationPosition;
@@ -43,20 +45,21 @@ public class StatsTracking : MonoBehaviour
     
     private void Update()
     {
-        xpBar.maxValue = xpToNextLevel;
-
-        if (!Mathf.Approximately(xpBar.value, displayedCurrentXP))
+        for (int i = 0; i < xpBar.Length; i++)
         {
-            DOTween.To(() => xpBar.value, x => xpBar.value = x, displayedCurrentXP, 0.1f);
-        }
+            xpBar[i].maxValue = xpToNextLevel;
 
-        //carbonProgressToNextLevelText.text = $"{displayedCurrentXP:n1}/{(int)xpToNextLevel} kg CO<sub>2</sub> <size=50%>to next lv.";
-        currentXPText.text = $"{totalCarbonSaved:n1} kg CO<sub>2</sub>";
+            if (!Mathf.Approximately(xpBar[i].value, displayedCurrentXP))
+            {
+                DOTween.To(() => xpBar[0].value, x => xpBar[0].value = x, displayedCurrentXP, 0.2f);
+                DOTween.To(() => xpBar[1].value, x => xpBar[1].value = x, displayedCurrentXP, 0.2f);
+            }
 
-        //totalCarbonAndTreesText.text = $"{(int)totalCarbonSaved} kg CO<sub>2</sub> saved!\nThat's {(int)(totalCarbonSaved / 25f)} tree(s)!";
+            currentXPText[i].text = $"{totalCarbonSaved:n1} kg CO<sub>2</sub>";
         
-        currentLevelLabelText.text = (currentLevel * xpToNextLevel) + " kg";
-        nextLevelLabelText.text = ((currentLevel + 1) * xpToNextLevel) + " kg";
+            currentLevelLabelText[i].text = (currentLevel * xpToNextLevel) + " kg";
+            nextLevelLabelText[i].text = ((currentLevel + 1) * xpToNextLevel) + " kg";
+        }
         
         profileOverviewText.text = $"<size=50%>lv. {currentLevel}</size>\n" +
                                    $"<font=\"bold\">Environmentalist</font>\n" +
