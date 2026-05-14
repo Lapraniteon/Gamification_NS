@@ -20,9 +20,19 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1589925493925568863, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: Schiphol Airport is partly below sea level, like much of the surrounding
+        area.
+      objectReference: {fileID: 0}
     - target: {fileID: 4300709508118169305, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 92.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6012603428257306392, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: The airport has its own library where travelers can borrow Dutch books
+        for free.
       objectReference: {fileID: 0}
     - target: {fileID: 6380436179282662226, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_text
@@ -37,6 +47,30 @@ PrefabInstance:
 
         The original railway station at Schiphol was partly at street
         level and opened on 21 December 1978. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_Pivot.x
@@ -117,6 +151,11 @@ PrefabInstance:
     - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8681777775783956747, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: Before becoming an airport, Schiphol was actually a military fortification
+        area.
       objectReference: {fileID: 0}
     - target: {fileID: 8909666129578774016, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_Sprite

@@ -20,9 +20,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1589925493925568863, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: "The city is built on swampy ground, giving it the nickname \u201CDragon
+        City.\u201D"
+      objectReference: {fileID: 0}
     - target: {fileID: 4300709508118169305, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 100.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 6012603428257306392, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: You can sail underground through canals beneath the old city center.
       objectReference: {fileID: 0}
     - target: {fileID: 6380436179282662226, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_text
@@ -34,6 +43,30 @@ PrefabInstance:
         directions. <font="bold">''s-Hertogenbosch </font>was the only Dutch station
         which provided in Auto-Train services. Services ran into Avignon, Bologna
         and Livorno. Auto-Trains were operated by Euro-Express-Traincharter. '
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_Pivot.x
@@ -114,6 +147,11 @@ PrefabInstance:
     - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8681777775783956747, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: Painter Hieronymus Bosch was born here, and the city embraces his bizarre
+        art everywhere.
       objectReference: {fileID: 0}
     - target: {fileID: 8909666129578774016, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_Sprite

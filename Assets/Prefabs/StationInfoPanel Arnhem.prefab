@@ -20,9 +20,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1589925493925568863, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: "Arnhem\u2019s trolleybuses are the only remaining trolleybus system
+        in the Netherlands."
+      objectReference: {fileID: 0}
     - target: {fileID: 4300709508118169305, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 118.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6012603428257306392, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: The station roof was designed to resemble a twisting ribbon in motion.
       objectReference: {fileID: 0}
     - target: {fileID: 6380436179282662226, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_text
@@ -36,6 +45,30 @@ PrefabInstance:
         the 9th busiest station in the Netherlands. The main building has a surface
         of 18,000 m2 and a volume of 76,000 m3, the building has a capacity of 110.000
         transfers per day."
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_Pivot.x
@@ -116,6 +149,11 @@ PrefabInstance:
     - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8681777775783956747, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: "Nearby Sonsbeek Park once hosted world-famous outdoor art exhibitions
+        before \u201CInstagram spots\u201D existed."
       objectReference: {fileID: 0}
     - target: {fileID: 8909666129578774016, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_Sprite

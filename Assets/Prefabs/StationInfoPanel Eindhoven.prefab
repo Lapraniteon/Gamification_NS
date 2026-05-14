@@ -10,11 +10,45 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 627387367630124754, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_Name
-      value: StationInfoPanel Eindhoven Variant
+      value: StationInfoPanel Eindhoven
       objectReference: {fileID: 0}
     - target: {fileID: 627387367630124754, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1589925493925568863, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: Eindhoven became a tech powerhouse largely because Philips started there
+        making lightbulbs.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6012603428257306392, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: Strijp-S near the station transformed from a factory zone into a futuristic
+        creative district.
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_Pivot.x
@@ -95,6 +129,11 @@ PrefabInstance:
     - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8681777775783956747, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: The city glows during GLOW Eindhoven, when huge light artworks cover
+        entire streets.
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 213306272834749090, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}

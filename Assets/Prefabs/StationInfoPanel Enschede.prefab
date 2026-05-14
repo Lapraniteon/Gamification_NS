@@ -20,6 +20,16 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1589925493925568863, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: Enschede was rebuilt after a massive fireworks disaster in 2000 changed
+        the city forever.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6012603428257306392, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: The city sits so close to Germany that some buses casually cross the
+        border mid-route.
+      objectReference: {fileID: 0}
     - target: {fileID: 6380436179282662226, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_text
       value: "<font=\"bold\">Enschede</font> is the main railway station in Enschede,
@@ -28,6 +38,30 @@ PrefabInstance:
         stopped. The connection to M\xFCnster was reopened in 2001. There is no connection
         allowing the German trains to run any further into Overijssel; however there
         was before the line closed. "
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7163984765908772539, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7683488100715511914, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_Pivot.x
@@ -108,6 +142,11 @@ PrefabInstance:
     - target: {fileID: 8468249623918425895, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8681777775783956747, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
+      propertyPath: m_text
+      value: Roombeek, once an industrial district, became a famous example of modern
+        urban redesign.
       objectReference: {fileID: 0}
     - target: {fileID: 8909666129578774016, guid: 76354cb641cf5aa46ba4902d9b7024f7, type: 3}
       propertyPath: m_Sprite

@@ -457,7 +457,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4280658022138065098, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4716612483170192852, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_text
@@ -485,7 +485,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5932027457447515890, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5932027457447515890, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.x
@@ -511,7 +511,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.x
@@ -519,11 +519,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 1168
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_SizeDelta.y
@@ -559,11 +559,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 600
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -1026.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -841,7 +841,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4280658022138065098, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4716612483170192852, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_text
@@ -877,7 +877,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5932027457447515890, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5932027457447515890, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.x
@@ -903,7 +903,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.x
@@ -911,11 +911,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 1168
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_SizeDelta.y
@@ -951,11 +951,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 600
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -1608.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1103,7 +1103,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchorMin.x
@@ -1111,7 +1111,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -1151,11 +1151,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 1163.6714
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -41.927124
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1233,7 +1233,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchorMin.x
@@ -1241,7 +1241,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -1281,11 +1281,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 763.6714
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -41.927124
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1824,26 +1824,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: a723a751889213b45a9adde94aaee0f1, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Den Haag Centraal
@@ -2193,26 +2173,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: f5e667a19de0c924c97e374759ccedd4, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Utrecht Centraal
@@ -2639,7 +2599,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4280658022138065098, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4716612483170192852, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_text
@@ -2667,7 +2627,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5932027457447515890, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5932027457447515890, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.x
@@ -2693,7 +2653,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.x
@@ -2701,11 +2661,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 1168
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_SizeDelta.y
@@ -2741,11 +2701,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 600
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -735.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2856,26 +2816,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 8f5eec741b860c044bdf7337f32a045c, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Enschede
@@ -6189,7 +6129,7 @@ RectTransform:
   m_Father: {fileID: 2094915255}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -6830,7 +6770,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4280658022138065098, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4716612483170192852, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_text
@@ -6858,7 +6798,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5932027457447515890, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5932027457447515890, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.x
@@ -6884,7 +6824,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.x
@@ -6892,11 +6832,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 1168
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_SizeDelta.y
@@ -6932,11 +6872,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 600
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -444.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -6979,7 +6919,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &911753933
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7393,26 +7333,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 7e4db6b8e5675a74cacdcb5e562d00da, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Haarlem
@@ -8351,26 +8271,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 3729f621576e88a409f6e144d24728dd, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Schiphol Airport
@@ -8690,26 +8590,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: edda64f37bb59dc4e934e0aedec4f265, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Middelburg
@@ -8989,26 +8869,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 800e6518735e3524eb7bd1eacabb56b0, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Lelystad Centrum
@@ -9310,26 +9170,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 399b78da3c0225a4b9921360d5b3636e, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Hengelo
@@ -10189,26 +10029,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: de16d28732ee3d849bd6917e86b0ac12, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Zwolle
@@ -10539,26 +10359,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 1b0d39fb7d1f69442afb6688875d59c1, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Leeuwarden
@@ -11319,26 +11119,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 058a5d29b035e124ca2a98ec4b80eca3, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Maastricht
@@ -12227,26 +12007,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 88deab1a3e5d30d4ea93258ef076bd8a, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Groningen
@@ -12645,26 +12405,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 0dfbfdaa52ab6044c8caf9d0944c3f52, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Rotterdam Centraal
@@ -14022,7 +13762,7 @@ RectTransform:
   m_Father: {fileID: 1768339158}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 40, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -14199,26 +13939,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 26e3fb322d12ae24e9074ec9a1000af3, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Amsterdam Centraal
@@ -14669,26 +14389,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 4abc2089cbc6b034aacc1db9e910812c, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Assen
@@ -14889,13 +14589,14 @@ GameObject:
   - component: {fileID: 1869861494}
   - component: {fileID: 1869861493}
   - component: {fileID: 1869861492}
+  - component: {fileID: 1869861495}
   m_Layer: 5
   m_Name: Notification
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1869861491
 RectTransform:
   m_ObjectHideFlags: 0
@@ -14916,7 +14617,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -16}
+  m_AnchoredPosition: {x: 0, y: 272}
   m_SizeDelta: {x: -32, y: 250}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1869861492
@@ -14972,6 +14673,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1869861490}
   m_CullTransparentMesh: 1
+--- !u!114 &1869861495
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1869861490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e6948c6cb8ad648a5d07b55f443fc3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  rectTransform: {fileID: 1869861491}
 --- !u!1 &1869879735
 GameObject:
   m_ObjectHideFlags: 0
@@ -15774,26 +15488,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: b2d2851f69c72ad4084e143127993882, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Almelo
@@ -16011,26 +15705,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 3c200915362c1814b90871001b78856c, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: '''s-Hertogenbosch'
@@ -16289,26 +15963,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: 71d1f92c5175f4a439ef52e175c832a6, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 3641807708762060825, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: m_text
       value: Arnhem Centraal
@@ -16949,7 +16603,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4280658022138065098, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4716612483170192852, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_text
@@ -16977,7 +16631,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5932027457447515890, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5932027457447515890, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.x
@@ -17003,7 +16657,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.x
@@ -17011,11 +16665,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 1168
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_SizeDelta.y
@@ -17051,11 +16705,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 600
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -1317.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -17179,26 +16833,6 @@ PrefabInstance:
       propertyPath: stationInfoPanelPrefab
       value: 
       objectReference: {fileID: 1382412080269920231, guid: f395d6a8d3a5b5b409abf18371717350, type: 3}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.a
-      value: 0.28235295
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.b
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.g
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3294056974948986575, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 4047197954484144956, guid: 4eeff786974b9cb4eb9d9ae69dd6203b, type: 3}
       propertyPath: stationInfoPanelPrefab
       value: 
@@ -17625,7 +17259,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchorMin.x
@@ -17633,7 +17267,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_SizeDelta.x
@@ -17673,11 +17307,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 363.6714
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -41.927124
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 461840612605633225, guid: ecdce94d0f2851d479caa774410ce12b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -17874,7 +17508,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4280658022138065098, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4716612483170192852, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_text
@@ -17906,7 +17540,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5932027457447515890, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5932027457447515890, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.x
@@ -17936,7 +17570,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.x
@@ -17944,11 +17578,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 1168
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_SizeDelta.y
@@ -17984,11 +17618,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 600
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -153.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8135703631595858659, guid: 497ed1ce164f0fd4f993981f90b0b528, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
